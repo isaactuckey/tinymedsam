@@ -11,3 +11,5 @@ Distilling a TinyVIT version of MedSAM through the full-stage distillation outli
 [TinyViT](https://github.com/microsoft/Cream/tree/main/TinyViT)
 
 [TinySAM](https://github.com/xinghaochen/TinySAM)
+
+[MedSAM](https://github.com/bowang-lab/MedSAM)
